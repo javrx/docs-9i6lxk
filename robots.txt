@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ch8udq.cingbet138.online/sitemap.xml
